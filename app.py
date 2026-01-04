@@ -326,8 +326,5 @@ st.markdown(
 
 
 
-cv.waitKey(0)
-
-
 
 
