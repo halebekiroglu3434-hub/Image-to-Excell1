@@ -123,7 +123,7 @@ def getWarp(img, biggest):
 
 #----------------------------Streamlit Arayüzü
 
-st.set_page_config(page_title="OCR Tarayıcı", page_icon="📄")
+st.set_page_config(page_title="Image Scanner", page_icon="📄")
 
 st.title("📄 Smart Photo Reader")
 st.subheader("Convert your Attendace File to Excell list")
