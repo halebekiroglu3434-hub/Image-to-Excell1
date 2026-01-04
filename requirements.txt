@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+openpyxl
+xlsxwriter
+pytesseract
+Pillow
